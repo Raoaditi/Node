@@ -14,5 +14,5 @@ Week1:
    - Using Express Router
 
 4. Node-mongodb
-    -Configure your Node application to communicate with a MongoDB server
-    -Perform various database operations on the MongoDB server from your Node application using the Node MongoDB driver.
+    - Configure your Node application to communicate with a MongoDB server
+    - Perform various database operations on the MongoDB server from your Node application using the Node MongoDB driver.
