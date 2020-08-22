@@ -16,3 +16,7 @@ Week1:
 4. Node-mongodb
     - Configure your Node application to communicate with a MongoDB server
     - Perform various database operations on the MongoDB server from your Node application using the Node MongoDB driver.
+
+5. Node-mongoose
+    - Define and construct Mongoose schemas and models
+    - Interact with MongoDB server using Mongoose from your Node application.
