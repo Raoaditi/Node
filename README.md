@@ -20,3 +20,7 @@ Week1:
 5. Node-mongoose
     - Define and construct Mongoose schemas and models
     - Interact with MongoDB server using Mongoose from your Node application.
+
+6. Node-REST API with express, mongodb and mongoose
+    - Develop a full-fledged REST API server with Express, MongoDB and Mongoose
+    - Implement the end-to-end solution integrating Express, Node and Mongo.
