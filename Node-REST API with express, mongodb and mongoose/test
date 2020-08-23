@@ -1,0 +1,63 @@
+{
+    "label": "Hot",
+    "featured": true,
+    "_id": "5f4222a7730ffb6da0501f90",
+    "name": "Uthappizza",
+    "image": "images/uthappizza.png",
+    "category": "mains",
+    "price": 499,
+    "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
+    "comments": [
+        {
+            "_id": "5f4222a7730ffb6da0501f91",
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in conFusion!",
+            "author": "John Lemon",
+            "createdAt": "2020-08-23T08:02:47.726Z",
+            "updatedAt": "2020-08-23T08:02:47.726Z"
+        },
+        {
+            "_id": "5f4222a7730ffb6da0501f92",
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "createdAt": "2020-08-23T08:02:47.728Z",
+            "updatedAt": "2020-08-23T08:02:47.728Z"
+        },
+        {
+            "_id": "5f4222a7730ffb6da0501f93",
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "createdAt": "2020-08-23T08:02:47.728Z",
+            "updatedAt": "2020-08-23T08:02:47.728Z"
+        },
+        {
+            "_id": "5f4222a7730ffb6da0501f94",
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "createdAt": "2020-08-23T08:02:47.728Z",
+            "updatedAt": "2020-08-23T08:02:47.728Z"
+        },
+        {
+            "_id": "5f4222a7730ffb6da0501f95",
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "createdAt": "2020-08-23T08:02:47.729Z",
+            "updatedAt": "2020-08-23T08:02:47.729Z"
+        },
+        {
+            "_id": "5f42237e730ffb6da0501f96",
+            "rating": 3,
+            "comment": "Test Comment",
+            "author": "Test User",
+            "createdAt": "2020-08-23T08:06:22.694Z",
+            "updatedAt": "2020-08-23T08:06:22.694Z"
+        }
+    ],
+    "createdAt": "2020-08-23T08:02:47.731Z",
+    "updatedAt": "2020-08-23T08:06:22.694Z",
+    "__v": 1
+}
